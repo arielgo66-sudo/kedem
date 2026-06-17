@@ -1,0 +1,6 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { background: #0a0e17; color: #e8eaf0; font-family: 'Inter', 'Segoe UI', sans-serif; direction: rtl; }
+input, textarea, button { font-family: inherit; }
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-track { background: #0a0e17; }
+::-webkit-scrollbar-thumb { background: #1e2535; border-radius: 2px; }
